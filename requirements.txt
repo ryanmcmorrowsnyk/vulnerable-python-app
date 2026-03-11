@@ -292,7 +292,7 @@ python-pptx==0.6.19
 
 # Additional high-CVE packages
 # aiohttp==3.7.4  # Already installed above
-nltk==3.6.2
+nltk==3.9.3
 # transformers==4.11.0  # Requires torch, too large
 # tensorflow==2.6.0  # Native deps, won't build on Python 3.13
 # scikit-learn==0.24.2  # Native deps
