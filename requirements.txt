@@ -129,7 +129,7 @@ msgpack==1.0.2
 jsonschema==3.2.0
 
 # Additional web frameworks/tools
-tornado==6.1
+tornado==6.5.5
 
 # Async
 # greenlet==1.1.0  # Fails to build on Python 3.13
