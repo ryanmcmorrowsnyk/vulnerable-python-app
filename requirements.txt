@@ -37,7 +37,7 @@ jsonpickle==2.0.0
 
 # Cryptography (older versions with known issues)
 cryptography==3.4.7
-pyOpenSSL==20.0.1
+pyOpenSSL==26.0.0
 paramiko==2.7.2
 
 # Authentication/JWT (vulnerable versions)
@@ -211,7 +211,7 @@ python-decouple==3.4
 
 # JWT and auth libraries
 python-jose==3.3.0
-authlib==0.15.4
+authlib==1.6.9
 
 # Excel/CSV processing
 openpyxl==3.0.7
@@ -320,3 +320,4 @@ prompt-toolkit==3.0.19
 backcall==0.2.0
 jedi==0.18.0
 parso==0.8.2
+pyasn1>=0.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
