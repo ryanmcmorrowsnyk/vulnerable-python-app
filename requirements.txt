@@ -11,7 +11,7 @@ click==8.0.1
 MarkupSafe==2.0.1
 
 # HTTP Libraries with CVEs
-requests==2.26.0
+requests==2.33.0
 urllib3==1.26.5
 httplib2==0.19.1
 certifi==2021.5.30
@@ -292,7 +292,7 @@ python-pptx==0.6.19
 
 # Additional high-CVE packages
 # aiohttp==3.7.4  # Already installed above
-nltk==3.6.2
+nltk==3.9.4
 # transformers==4.11.0  # Requires torch, too large
 # tensorflow==2.6.0  # Native deps, won't build on Python 3.13
 # scikit-learn==0.24.2  # Native deps
