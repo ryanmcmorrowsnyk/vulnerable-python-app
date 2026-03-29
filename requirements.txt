@@ -36,7 +36,7 @@ dill==0.3.4
 jsonpickle==2.0.0
 
 # Cryptography (older versions with known issues)
-cryptography==3.4.7
+cryptography==46.0.6
 pyOpenSSL==20.0.1
 paramiko==2.7.2
 
