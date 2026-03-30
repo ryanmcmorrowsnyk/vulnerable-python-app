@@ -155,7 +155,7 @@ python-multipart==0.0.5
 # Additional popular packages with CVEs
 simplejson==3.17.3
 docutils==0.17.1
-pygments==2.9.0
+pygments==2.20.0
 setuptools==57.0.0
 
 # More vulnerable packages to reach 200+ vulnerabilities
