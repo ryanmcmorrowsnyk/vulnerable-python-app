@@ -150,7 +150,7 @@ arrow==1.1.1
 brotli==1.0.9
 
 # Parser libraries
-python-multipart==0.0.5
+python-multipart==0.0.26
 
 # Additional popular packages with CVEs
 simplejson==3.17.3
