@@ -147,7 +147,7 @@ webencodings==0.5.1
 arrow==1.1.1
 
 # Compression
-brotli==1.0.9
+brotli==1.2.1
 
 # Parser libraries
 python-multipart==0.0.5
